@@ -20,7 +20,7 @@ function App() {
       <table className="table">
         <thead>
           <tr>
-            <th scope="col">Id</th>
+            <th scope="col">#Id</th>
             <th scope="col">Name</th>
             <th scope="col">Email</th>
             <th scope="col">Phone</th>
